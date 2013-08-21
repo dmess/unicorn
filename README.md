@@ -1,0 +1,2 @@
+- Set default parameters for nginx.conf / Unicorn proxy
+- Set default parameters for unicorn.rb config
